@@ -1,0 +1,18 @@
+[
+    {
+        "source_db"         : "source_db",
+        "source_endpoint"   : "source_endpoint",
+        "source_table"      : "source_table",
+        "target_db"         : "target_db",
+        "target_endpoint"   : "target_endpoint",
+        "target_table"      : "target_table",
+        "column_key"        : "primary_key",
+        "column_date"       : "created_date",
+        "min_date_period"   : "2025-02-01",
+        "chunk_size"        : "10000",
+        "row_auto_update"   : false,
+        "is_active"         : false,
+        "is_autochecksum"   : false,
+        "is_switched"       : false
+    }
+]
